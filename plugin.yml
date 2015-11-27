@@ -1,0 +1,3 @@
+name: "NearestAPI"
+main: com.caglardev.nearestapi.Nearest
+version: 1.0
